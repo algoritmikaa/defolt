@@ -1,0 +1,38 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+header {
+    background-color: lightblue;   
+}
+
+main {
+    background-color: lightblue;
+}
+
+img {
+    margin: 5px;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    width:100%;
+    height: 70px;
+}
+
+a {
+    color: white;
+}
+
+P,footer {
+    margin: 10px;
+}
+
+header,img {
+    text-align: center;
+}
